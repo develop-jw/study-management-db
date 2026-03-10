@@ -15,7 +15,7 @@
 
 ## ERD
 
-![ERD](docs/ERD.png)
+
 <img width="730" height="665" alt="ERD" src="https://github.com/user-attachments/assets/4533140e-2d9f-48b1-bbe8-f5805c2f743a" />
 
 ---
